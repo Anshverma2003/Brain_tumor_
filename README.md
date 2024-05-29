@@ -129,7 +129,7 @@ The web application allows users to upload MRI images and receive predictions on
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/tumor-detection-web-app.git
+   git clone https://github.com/IlyassSt/Tumor-Detection-Web-App.git
    cd tumor-detection-web-app
    
 2. **Install the required libraries:**:
